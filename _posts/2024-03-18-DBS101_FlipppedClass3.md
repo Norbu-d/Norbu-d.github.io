@@ -11,11 +11,11 @@ tags: [DBS101]
 
 It certianly means ranking as the term ranking means just like to rank our marks or status to see in comparision with others.
 
-![alt text](image-7.png)
+![alt text](<../Screenshot from 2024-03-18 22-09-49.png>)
 
 as first i created a new database and made players and score so to rank them .
 
-![alt text](image-8.png)
+![alt text](<../Screenshot from 2024-03-18 22-10-22.png>)
 
 i created a new table called ranked_players so i can rank them with code from where i selected from my previous table id,player,score and made the score go in accending order so i can rank them.
 
@@ -23,7 +23,7 @@ i created a new table called ranked_players so i can rank them with code from wh
 
  window function produces a result for each query row.\
 
- ![alt text](image-9.png)
+ ![alt text](<../Screenshot from 2024-03-18 22-43-14.png>)
 
  as the picture shows there is two region north and south and it made it into rowing the same region together to who the running_tool and amount .
 
@@ -35,7 +35,7 @@ i created a new table called ranked_players so i can rank them with code from wh
 
  Pivoting is particularly useful for summarizing and presenting data.
 
- ![alt text](image-10.png)
+ ![alt text](<../Screenshot from 2024-03-18 22-48-49.png>)
 
  as the above image it shows that the amount for north has been combined and shown directly as janurary sales and same for south beacause of pivoting as it directly gives us summarization of data as to total amount .
 
@@ -43,11 +43,11 @@ i created a new table called ranked_players so i can rank them with code from wh
 
  ROLLUP creates subtotals at any level of aggregation needed, from the most detailed up to a grand total. CUBE is an extension similar to ROLLUP , enabling a single statement to calculate all possible combinations of subtotals. CUBE can generate the information needed in cross-tab reports with a single query.
 
-![alt text](image-11.png)
+![alt text](<../Screenshot from 2024-03-18 22-58-40.png>)
 
  this is rollup as it calculates the total sales amount by region and product, along with subtotals for each region and a grand total across all regions and products.
 
- ![alt text](image-12.png)
+ ![alt text](<../Screenshot from 2024-03-18 22-59-10.png>)
 
  this is cube as it it calculates the total sales amount by region and product, generating summaries for each combination of region and product, along with subtotals for individual regions, products, and a grand total.
 
