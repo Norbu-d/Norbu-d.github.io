@@ -4,7 +4,8 @@ categories: [DBS101, Flipped_Class]
 tags: [DBS101]
 ---
 
-### Topic : 
+### Topic : Document type database ,Document type database ,Graph Database,Vector Database,Time Series Database,Column Oriented DataBase
+g
 ---
 
 Document type database 
