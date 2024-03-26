@@ -5,7 +5,7 @@ tags: [DBS101]
 ---
 
 ### Topic : Document type database ,Document type database ,Graph Database,Vector Database,Time Series Database,Column Oriented DataBase
-g
+gig
 ---
 
 Document type database 
