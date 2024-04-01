@@ -38,7 +38,6 @@ i created a new table called ranked_players so i can rank them with code from wh
 
  ROLLUP creates subtotals at any level of aggregation needed, from the most detailed up to a grand total. CUBE is an extension similar to ROLLUP , enabling a single statement to calculate all possible combinations of subtotals. CUBE can generate the information needed in cross-tab reports with a single query.
 
-
  this is rollup as it calculates the total sales amount by region and product, along with subtotals for each region and a grand total across all regions and products.
 
  this is cube as it it calculates the total sales amount by region and product, generating summaries for each combination of region and product, along with subtotals for individual regions, products, and a grand total.
