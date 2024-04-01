@@ -6,7 +6,7 @@ tags: [DBS101]
 
 ### Topic : Set operations in sql and null values in sql
 
-Set Operations in SQL:
+## Set Operations in SQL:
 
 SQL supports set operations to work with multiple sets of data. These operations include:
 
@@ -22,7 +22,7 @@ Set operations are useful in scenarios where you need to combine or compare data
 
 ![alt text](../set-operators-in-sql.png)
 
-NULL Value in SQL:
+## NULL Value in SQL:
 
 In SQL, NULL represents a missing or unknown value. It's not the same as zero or an empty string; it signifies the absence of a value or the value is undefined.
 

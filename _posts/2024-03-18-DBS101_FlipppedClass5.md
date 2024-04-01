@@ -7,7 +7,7 @@ tags: [DBS101]
 ### Topic : First Normal From and Second Normal Form, BNCF, Third Normal From, Fourth Normal Form
 ---
 
-First Normal Form and Second Normal Form:
+## First Normal Form and Second Normal Form:
 
 The first normal form helps to eliminate duplicate data and simplify queries.
 
@@ -26,7 +26,7 @@ The Second normal form eliminates redundant data by requiring that each non-key 
 
 ![alt text](../Second-Normal-Form-1.png)
 
-Boyce-Codd Normal Form (BCNF):
+## Boyce-Codd Normal Form (BCNF):
 
 BNCF is an advanced version of the third normal form (3NF), and often, it is also known as the 3.5 Normal Form. 
 
@@ -47,7 +47,7 @@ The candidate key in the above table is ID. The functional dependency set can be
 
 ![alt text](../images.jpeg)
 
-Fourth Normal Form (4NF):
+## Fourth Normal Form (4NF):
 
 Fourth Normal Form (4NF) is a database normalization technique used in the field of relational database management systems (RDBMS) to reduce data redundancy and improve data integrity.
 

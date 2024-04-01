@@ -12,7 +12,7 @@ Networking Fundamentals:
 
 At its core, networking involves the interconnection of devices to facilitate data transmission. Networks can be classified based on their geographical scope, such as Local Area Networks (LANs), Wide Area Networks (WANs), and the Internet.
 
-IP Address:
+## IP Address:
 
 An IP address serves as a unique identifier assigned to each device connected to a network. It enables devices to locate and communicate with each other in a networked environment. IP addresses come in two main versions: IPv4 (32-bit address) and IPv6 (128-bit address). IPv4 addresses are typically represented in decimal format (e.g., 192.168.1.1), while IPv6 addresses are expressed in hexadecimal notation (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
 
@@ -20,7 +20,7 @@ Ping:
 
 Ping is a networking utility used to test the reachability of a host on an Internet Protocol (IP) network. It also measures the round-trip time (RTT) it takes for data packets to travel from the source device to the destination and back. Ping operates by sending ICMP (Internet Control Message Protocol) echo request packets to the target host and waiting for ICMP echo reply packets in response.
 
-How Ping Works:
+## How Ping Works:
 
 Initiation: To initiate a ping command, a user typically opens a command prompt or terminal window and enters the ping command followed by the IP address or hostname of the target device.
 
