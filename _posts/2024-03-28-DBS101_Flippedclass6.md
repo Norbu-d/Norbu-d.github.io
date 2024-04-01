@@ -5,10 +5,9 @@ tags: [DBS101]
 ---
 
 ### Topic : Document type database ,Document type database ,Graph Database,Vector Database,Time Series Database,Column Oriented DataBase
-gig
 ---
 
-Document type database 
+## Document type database 
 
 A document database is a type of NoSQL database that can be used to store and query data as JSON-like documents.
 
@@ -26,7 +25,7 @@ Operational analytics.
 
 ![alt text](../p1.png)
 
-Key Valued based Database
+## Key Valued based Database
 
 A key-value database is a type of non-relational database, also known as NoSQL database, that uses a simple key-value method to store data.
 
@@ -41,7 +40,7 @@ Built-in redundancy makes this database more reliable.
 
 ![alt text](../key.png)
 
-Graph Database
+## Graph Database
 
 Graph Database Defined. A graph database is defined as a specialized, single-purpose platform for creating and manipulating graphs. Graphs contain nodes, edges, and properties, all of which are used to represent and store data in a way that relational databases are not equipped to do.
 
@@ -49,7 +48,7 @@ Graph databases allow users to query linked data quickly and efficiently, making
 
 ![alt text](../graph.png)
 
-Vector Database
+## Vector Database
 
 A vector database is a collection of data stored as mathematical representations. Vector databases make it easier for machine learning models to remember previous inputs, allowing machine learning to be used to power search, recommendations, and text generation use-cases.
 
@@ -59,7 +58,7 @@ Vector databases support flexible data models. They can handle structured and un
 
 Disadvantage for vector Database is data Type limitations.
 
-Time Series Database
+## Time Series Database
 
 Time series data is a set of values organized in the order in which they occur and arrive for processing.
 
@@ -76,7 +75,7 @@ Disadavntage for time series database :
 Time series data analysis does not support the missing values.
 The analysis may lead to inaccurate results in the long term.
 
-Column Oriented DataBase
+## Column Oriented DataBase
 
 Column oriented database is s a type of database management system (DBMS) that stores data in columns together on disk. This enables faster queries for data analytics, which generally involves filtering and aggregating table columns.
 
