@@ -15,14 +15,6 @@ Broken access control vulnerability is a security flaw that allows unauthorized 
 
 Authentication is “broken” when attackers are able to compromise passwords, keys or session tokens, user account information, and other details to assume user identities. Due to poor design and implementation of identity and access controls, the prevalence of broken authentication is widespread.
 
-![alt text](../img1.jpg)
-
-![alt text](../img2.jpg)
-
-![alt text](../img3.jpg)
-
-![alt text](<../Screenshot 2024-03-31 194951.png>)
-
 As we can see go into the website we can login with username ="noot" and password = "test1234" we already have the username and the password we have to find the flag and to find the flag we see that this is Broken access control vulnerability as the image shows that (id=1) we can change the id until we find root flag and as we put (id=5) the website gives us that it can be lower than 1 so we can put (id=0) which gives us the root flag.
 
 The problem arised as to the URL was vulnerable so we must always verify user inputs such as data from HTML forms and URL query parameters so that it prevents from the attack.
