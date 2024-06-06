@@ -7,7 +7,8 @@ tags: [DBS101]
 ### Topic : Recovery Algorithms,ARIES Algorithm, DB logging
 
 
-## Recovery Algorithms
+## Recovery Algorithm
+
 
 Recovery algorithms are used to bring back a database to a specific state in which it was last stable in the event of a failure like the system crashing or the power being shut down. They guarantee that any business operations performed inevitably are either successful or aborted, so that the database will always be in a coherent state. Recovery algorithms are divided into three main phases: It includes undo, redo, and update actions, which involves finding out what action was done in the past and revising it as well as updating it for the next action to be done. The decision is to differentiate what transactions were active at failure time from those which need to be rolled back and what needs to be redone.
 
