@@ -24,7 +24,7 @@ The Second normal form eliminates redundant data by requiring that each non-key 
 
  The second Normal Form applies to relations with composite keys, that is, relations with a primary key composed of two or more attributes
 
-![alt text](/Second-Normal-Form-1.png)
+<!-- ![alt text](/Second-Normal-Form-1.png) -->
 
 ## Boyce-Codd Normal Form (BCNF):
 
@@ -35,7 +35,7 @@ A table is in BCNF when for all nontrivial FDs (X → A), X is a superkey for th
 
 It ensures that each determinant of a relation is a candidate key, which means that all non-trivial functional dependencies are eliminated.
 
-![alt text](/1_RnO5p0n3bSeCTiiVCrOr6w.png)
+<!-- ![alt text](/1_RnO5p0n3bSeCTiiVCrOr6w.png) -->
 
 Third Normal Form (3NF):
 
@@ -45,7 +45,7 @@ We use the 3NF to reduce any duplication of data and achieve data integrity in a
 
 The candidate key in the above table is ID. The functional dependency set can be defined as ID->NAME, ID->SUBJECT, ID->STATE, STATE->COUNTRY. If A->B and B->C are the two functional dependencies, then A->C is called the Transitive Dependency.
 
-![alt text](/images.jpeg)
+<!-- ![alt text](/images.jpeg) -->
 
 ## Fourth Normal Form (4NF):
 
@@ -53,7 +53,7 @@ Fourth Normal Form (4NF) is a database normalization technique used in the field
 
 4NF is used to refine database design and eliminate anomalies related to multi-valued dependencies. It ensures that each attribute in a relation is fully dependent on the primary key, simplifying data management and improving data integrity.
 
-![alt text](/Fourth-normal-form.jpg)
+<!-- ![alt text](/Fourth-normal-form.jpg) -->
 
 In class we discussed about the topics in groups with respectred topics to assigned groups and hence we disscussed and explained within our group and after time was up we then went to other groups which had differnt topics disccusing it altogether and learning the above normal forms.
 

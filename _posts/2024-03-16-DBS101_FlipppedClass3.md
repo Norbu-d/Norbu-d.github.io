@@ -20,7 +20,7 @@ EXCEPT or MINUS: This operation returns only the rows that appear in the first r
 
 Set operations are useful in scenarios where you need to combine or compare data from multiple sources or conditions. They are often used in reporting, data analysis, and when dealing with data from different sources or tables.
 
-![alt text](/set-operators-in-sql.png)
+<!-- ![alt text](/set-operators-in-sql.png) -->
 
 ## NULL Value in SQL:
 
@@ -40,7 +40,7 @@ NULL in Indexes: Most SQL databases allow NULL values in indexed columns. Howeve
 
 NULL values are essential for representing missing or unknown information in databases. They allow for more flexible data modeling and querying but require careful handling to avoid unexpected results in queries and calculations.
 
-![alt text](/null.jpg)
+<!-- ![alt text](/null.jpg) -->
 
 In class we discussed about the topics in groups with respectred topics to assigned groups and hence we disscussed and explained within our group and after time was up we then went to other groups which had differnt topics disccusing it altogether and learning the above sql operations and null vlues in sql.
 
