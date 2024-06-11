@@ -29,7 +29,8 @@ Efficient Redo and Undo Operations: ARIES also reduces the disk I/O operation of
 ## DB Logging
 
 DB logging is a key component of recovery schemes and is incorporated into the ARIES algorithm. It entails maintaining comprehensive copies of all modifications to the database prior to implementation on the real database files. This log has specifications of the operations to be done which may be to insert, update or delete some data items with the date time at which it was done.
-
+  
+  
 Importance of DB Logging:
 
 Reliability: DB logging involves creating a record of all activities happening in a database and can be used easily to recover the previous state of the database in case of a failure.
