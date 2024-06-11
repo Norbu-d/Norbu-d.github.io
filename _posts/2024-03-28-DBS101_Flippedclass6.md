@@ -23,7 +23,7 @@ Mobile apps.
 Mainframe offload.
 Operational analytics.
 
-![alt text](../p1.png)
+![alt text](/p1.png)
 
 ## Key Valued based Database
 
@@ -38,7 +38,7 @@ Its response time is fast due to its simplicity, given that the remaining enviro
 Key-value store databases are scalable vertically as well as horizontally.
 Built-in redundancy makes this database more reliable.
 
-![alt text](../key.png)
+![alt text](/key.png)
 
 ## Graph Database
 
@@ -46,7 +46,7 @@ Graph Database Defined. A graph database is defined as a specialized, single-pur
 
 Graph databases allow users to query linked data quickly and efficiently, making them much faster than traditional relational databases. With sophisticated algorithms and powerful search functions, graph databases can return complex query results across an interconnected network in milliseconds.
 
-![alt text](../graph.png)
+![alt text](/graph.png)
 
 ## Vector Database
 
