@@ -106,7 +106,6 @@ tags: [DBS101]
 |
 
 
-
 ## Roles and Functions of a Database Administrator
 
 - Database Security & Access Control – Grants and restricts database access.
